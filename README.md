@@ -1,10 +1,10 @@
 # Static Next.js App Deployed to CloudCannon
 
-Demo for tutorial Deploy Static Sites with a Collaborative CMS on the Jamstack with CloudCannon.
+Demo for tutorial [Deploy Static Sites with a Collaborative CMS on the Jamstack with CloudCannon](https://www.youtube.com/watch?v=cDP4NA5Bqb4).
 
 🚀 See Demo: https://freezing-mushroom.cloudvent.net
 
-📺 YouTube: Coming Soon!
+📺 YouTube: https://www.youtube.com/watch?v=cDP4NA5Bqb4
 
 ## More tutorials and walkthroughs
 
